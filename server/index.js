@@ -41,3 +41,7 @@ MongoClient.connect(MONGODB_URI, (err, db) => {
 })
 
 
+app.listen(PORT, () => {
+  console.log("Example app is listening on port" + PORT);
+});
+
