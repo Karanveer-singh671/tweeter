@@ -1,0 +1,59 @@
+
+/*   position: relative; Set the navbar to fixed position
+top: -20px; Position the navbar at the top of the page
+left: 20px;
+height: 82px;
+width:100%;
+color: #e8fdff;
+padding-left: 2em;
+padding-right: 2em;
+padding-top: 0px;
+padding-bottom: 0px;
+
+}  */
+
+nav {
+ font-size: 200%;
+ height: 100px;
+ background-color: #00a087;
+ color: #e8fdff;
+ display: flex;
+ align-items: center;
+
+}
+#nav-bar .logo {
+ float: left;
+ margin-left: 30px;
+ display: flex;
+ height:80px;
+ width:80px;
+ background-color: #00a087;
+
+}
+#nav-bar .header {
+  background-color: #00a087;
+  color: #e8fdff;
+  height: 100%;
+  left: 10px;
+  line-height: 400%
+}
+
+#nav-bar button {
+  margin-left: auto;
+  margin-right: 40px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  background-color: #afeeee;
+  border: none;
+  border-radius: 15px;
+}
+
+   button:hover {
+    background-color: white;
+   opacity: 0.5;
+}
+

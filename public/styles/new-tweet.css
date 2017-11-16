@@ -1,0 +1,60 @@
+.new-tweet {
+    border-radius: 10px;
+    background: #D3D3D3;
+    padding: 10px;
+    width: 100%;
+    height: 180px;
+  }
+
+h2 {
+    padding-bottom:3px;
+}
+
+.counter {
+    float: right;
+}
+
+textarea{
+    width: 100%;
+    padding: 3px;
+    position: relative;
+}
+
+
+/* .new-tweet {
+   border-radius: 30px;
+    border: 2px solid grey;
+    padding: 15px;
+    width: 270px;
+    height: 200px;
+    background-color: white;
+}
+
+}
+
+
+.new-tweet span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0px;
+
+}
+
+h2 {
+border-bottom: 1px solid black;
+}
+
+input {
+ white-space: nowrap;
+}
+
+form textarea {
+ font-size: : 10px;
+ width: 210px;
+ white-space: nowrap;
+}
+
+.counter {
+  padding-left:115px;
+} */

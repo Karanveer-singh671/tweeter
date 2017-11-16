@@ -1,0 +1,177 @@
+
+article.all-tweets {
+  border-radius: 10px;
+  background: white;
+  margin-top: 50px;
+  border: 5px solid gray;
+}
+
+.headerbox {
+  background-color: lightgrey;
+  border-radius: 5px;
+  height:70px;
+  padding: 10px;
+  opacity: 0.7;
+  display: flex;
+  align-items: center;
+}
+
+.headerbox:hover {
+  opacity: 1.0;
+}
+
+.headerbox .user-info {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+img.avatar {
+  padding-right: 5px;
+  margin-top: 5px;
+}
+
+.tweet-body {
+  border-bottom: 1px solid #A9A9A9;
+}
+
+p.message {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-items: center;
+  margin-left: 5px;
+
+}
+
+.date {
+  margin-left: 5px;
+}
+
+.icons {
+  float: right;
+  padding-right: 5px;
+}
+
+.icons i {
+  opacity: 0.5;
+}
+
+.icons i:hover {
+  opacity: 1;
+}
+
+
+/* #all-tweet-data {
+  flex-direction: column-reverse;
+  display: flex;
+  border-radius: 10px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 3px;
+  padding: 5px;
+  margin-top: 50px;
+  background-color: white;
+  margin-right: 40px;
+
+}
+
+
+#all-tweet-data h2 {
+
+  margin: auto;
+  padding-left: 30px
+  font-size: 1em;
+  font-stretch: 20%;
+  margin-right: 15px;
+
+
+}
+
+#all-tweet-data h1 {
+  color: lightblue;
+  padding-right: 50px
+  margin: auto;
+  margin-top:5px;
+
+
+}
+
+
+
+#all-tweet-data img {
+  width: 50px;
+  height: 50px;
+  border-width: 1px;
+  border-radius: 5px;
+  background-color: teal;
+  margin-top: 0px;
+  margin-left: 0px;
+
+}
+
+#all-tweet-data p {
+  font-size: 150%;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+#all-tweet-data footer p {
+  display:flex;
+ font-size: 100%;
+  margin: auto;
+  border-top: 1px solid black;
+}
+
+header {
+  display: flex;
+  background-color: rgb(190,190,190);
+  border-radius: 5px;
+  height: 50px;
+}
+
+ .headerbox {
+  display: flex;
+  background-color: rgb(190,190,190);
+  border-radius: 5px;
+  height: 50px;
+}
+
+.headerbox:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+: hover {
+  background-color: green;
+  cursor: pointer;
+}
+
+
+
+}
+
+.icons {
+ float: right;
+ padding-right: 5px;
+}
+
+.icons i {
+ opacity: 0.5;
+}
+
+.icons i:hover {
+ opacity: 1;
+}
+
+div {
+  padding-left: 230px;
+}
+
+
+#all-tweet-data .tweetPlz {
+
+}
+
+
+ */
