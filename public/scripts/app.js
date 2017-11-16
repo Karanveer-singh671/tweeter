@@ -200,7 +200,7 @@ $(document).ready(function(){
   });
 $(".new-tweet").hide();
     $(".compose").click(function(e) {
-      $(".new-tweet").toggle();
+      $(".new-tweet").slideToggle();
        $("textarea").focus();
     });
 
