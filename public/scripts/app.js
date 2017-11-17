@@ -53,7 +53,7 @@ $(document).ready(function(){
 
   loadTweets();
 
-  const maxLength = 40;
+  const maxLength = 140;
 
   function isValid($form) {
 
@@ -97,4 +97,5 @@ $(document).ready(function(){
   });
 
 });
+
 
