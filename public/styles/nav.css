@@ -1,17 +1,3 @@
-
-/*   position: relative; Set the navbar to fixed position
-top: -20px; Position the navbar at the top of the page
-left: 20px;
-height: 82px;
-width:100%;
-color: #e8fdff;
-padding-left: 2em;
-padding-right: 2em;
-padding-top: 0px;
-padding-bottom: 0px;
-
-}  */
-
 nav {
  font-size: 200%;
  height: 100px;
@@ -51,9 +37,8 @@ nav {
   border: none;
   border-radius: 15px;
 }
-
-   button:hover {
-    background-color: white;
-   opacity: 0.5;
+button:hover {
+  background-color: white;
+  opacity: 0.5;
 }
 

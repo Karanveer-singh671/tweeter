@@ -21,18 +21,7 @@ body {
   background-color: #eee;
 }
 
-/*
- * Additional CSS can be defined below or in other CSS files, as per instructions
- */
-/*  .container {
- margin: auto;
- width: 450px;
- padding-left: 100px;
- padding-bottom: 100px;
- background-color: #FFFFFF;
- padding-top: 140px;
-}
-*/
+
 
 
 .container {
@@ -45,5 +34,5 @@ body {
   margin: auto;
   background-color: #ffffff;
 
- }
+}
 
